@@ -1,0 +1,93 @@
+[
+    {
+        "chunk_id": "projects_ml_model_monitoring_and_drift_detection_001",
+        "section": "projects",
+        "title": "ML Model Monitoring & Drift Detection",
+        "source": "atharvbhosale.live",
+        "text": "Project: ML Model Monitoring & Drift Detection. ML Model Monitoring & Drift Detection An end-to-end monitoring framework guarding models in production — 25+ automated tests spanning univariate, multivariate, data-quality, data-drift and concept-drift scenarios, with eight statistical detectors from KS and Chi-Square to PSI, Wasserstein distance, Jensen–Shannon divergence, CUSUM and PCA-Mahalanobis, explained through SHAP. Served by FastAPI, surfaced in a React dashboard, shipped in Docker. ML Model Monitoring & Drift Detection MLOps · Closed-Source · 2026 · In Progress Architecture FastAPI serves a monitoring engine that ingests model predictions and reference data in real time. A React dashboard surfaces drift alerts, data-quality reports, and SHAP-based explanations. The entire stack is containerised with Docker and orchestrated via CI/CD pipelines. Detection Methods Eight statistical detectors cover the full spectrum of"
+    },
+    {
+        "chunk_id": "projects_ml_model_monitoring_and_drift_detection_002",
+        "section": "projects",
+        "title": "ML Model Monitoring & Drift Detection",
+        "source": "atharvbhosale.live",
+        "text": "Project: ML Model Monitoring & Drift Detection. and SHAP-based explanations. The entire stack is containerised with Docker and orchestrated via CI/CD pipelines. Detection Methods Eight statistical detectors cover the full spectrum of drift: KS Test, Chi-Square, PSI, Wasserstein Distance, Jensen–Shannon Divergence, CUSUM, PCA-Mahalanobis, and custom multivariate monitors. Each detector outputs confidence scores with configurable alert thresholds. Key Metrics 25 + Automated Tests 8 Statistical Detectors 5 Drift Categories"
+    },
+    {
+        "chunk_id": "projects_agentic_compliance_auditor_001",
+        "section": "projects",
+        "title": "Agentic Compliance Auditor",
+        "source": "atharvbhosale.live",
+        "text": "Project: Agentic Compliance Auditor. Agentic Compliance Auditor A production-grade Autonomous Self-Corrective RAG Agent built with LangGraph — featuring self-reflection loops, hallucination auditing, Jaccard-based tokenomics compression (35%+ token savings), Tavily web fallback search, and a circuit-breaker safeguard. Served via FastAPI with a Streamlit audit dashboard and full observability through Langfuse."
+    },
+    {
+        "chunk_id": "projects_mindtrace_ai_001",
+        "section": "projects",
+        "title": "MindTrace AI",
+        "source": "atharvbhosale.live",
+        "text": "Project: MindTrace AI. MindTrace AI A real-time, multimodal emotional-intelligence system that reads text and imagery with Hugging Face Transformers and computer vision — paired with an LLM-powered chatbot for semantic analysis and deeply personalized responses. The research behind it is currently under review at Springer Nature's Data Science and Engineering Journal."
+    },
+    {
+        "chunk_id": "projects_matrisk_ai_001",
+        "section": "projects",
+        "title": "MatRisk AI",
+        "source": "atharvbhosale.live",
+        "text": "Project: MatRisk AI. MatRisk AI One system, two risk languages: physics-constrained material degradation and financial risk, modelled with Scikit-Learn to R² scores of 0.43 and 0.47. Versioned data and models through DVC, validated with Pytest — a reproducible-ML backbone behind a FastAPI and Streamlit front end, charted in Plotly."
+    },
+    {
+        "chunk_id": "projects_ibm_customer_churn_mlops_001",
+        "section": "projects",
+        "title": "IBM Customer Churn MLOps",
+        "source": "atharvbhosale.live",
+        "text": "Project: IBM Customer Churn MLOps. IBM Customer Churn MLOps Built an end-to-end MLOps pipeline for IBM Customer Churn Prediction using MLflow, FastAPI, Docker, GitHub Actions, and Kubernetes. Achieved 74.02% accuracy with automated testing and scalable model deployment."
+    },
+    {
+        "chunk_id": "projects_marketminds_001",
+        "section": "projects",
+        "title": "MarketMinds",
+        "source": "atharvbhosale.live",
+        "text": "Project: MarketMinds. MarketMinds A data-driven market analysis platform leveraging analytics and visualization to uncover actionable business insights from complex market datasets."
+    },
+    {
+        "chunk_id": "projects_gromart_001",
+        "section": "projects",
+        "title": "GroMart",
+        "source": "atharvbhosale.live",
+        "text": "Project: GroMart. GroMart A grocery store management and e-commerce platform offering an intuitive shopping experience."
+    },
+    {
+        "chunk_id": "experience_professional_experience_001",
+        "section": "experience",
+        "title": "Professional Experience",
+        "source": "atharvbhosale.live",
+        "text": "Professional Experience: Data Scientist Intern Zetheta Algorithms Pvt. Ltd. Developed AI and machine-learning solutions in Python — statistical analysis and data-driven modelling to extract insight from complex datasets; applied ML and statistical methods to analyse, model and evaluate risk across physics and financial domains. Jul 2026 — Aug 2026"
+    },
+    {
+        "chunk_id": "research_research_publications_001",
+        "section": "research",
+        "title": "Research Publications",
+        "source": "atharvbhosale.live",
+        "text": "Research Publications: MindTrace AI Under review · Springer Nature DSEJ A multimodal, real-time emotional-intelligence architecture combining NLP, transformers and computer vision with an LLM-driven semantic layer — submitted to Data Science and Engineering Journal (Impact Factor 4.2, Q1). 2026 GroMart Published · IJCRT Research on grocery-market intelligence and demand analytics, published in the International Journal of Creative Research Thoughts (2025–26), Impact Factor 9.17 (IJCRT metric via Google Scholar / Semantic Scholar methodology)."
+    },
+    {
+        "chunk_id": "achievements_achievements_001",
+        "section": "achievements",
+        "title": "Achievements",
+        "source": "atharvbhosale.live",
+        "text": "Achievements: Milestones & Honors. TCS World 10K finisher Historic Run S5 Winner Spot Painting at KITCOEK Art showcasing at KITCOEK First Half Marathon on My 21st Birthday Art showcasing at KITCOEK First Research paper on IJCRT"
+    },
+    {
+        "chunk_id": "skills_technical_skills_001",
+        "section": "skills",
+        "title": "Technical Skills",
+        "source": "atharvbhosale.live",
+        "text": "Technical Skills: ML / DL Scikit-Learn · XGBoost TensorFlow · PyTorch Supervised / Unsupervised ML Hyperparameter tuning Feature selection & engineering SHAP explainability Computer vision · Transformers AI / GenAI LLMs · RAG pipelines Hugging Face ecosystem NLP & semantic analysis Embeddings Generative AI MLOps & Cloud Model monitoring & drift detection Model evaluation & deployment MLflow · DVC · Pytest Docker · Git AWS (EC2, S3) · GCP Languages Python SQL Java C JavaScript / TypeScript Frameworks FastAPI · Flask Streamlit React · Node.js Plotly Data pandas · NumPy EDA & data analysis Statistical analysis & hypothesis testing MySQL · PostgreSQL · MongoDB"
+    },
+    {
+        "chunk_id": "about_about_atharv_001",
+        "section": "about",
+        "title": "About Atharv",
+        "source": "atharvbhosale.live",
+        "text": "About Atharv: Data Scientist by Discipline , Athlete by Grit , Artist by Eye. Final-year Data Science student at KIT CoEK (CGPA 8.5) with real-world experience shipping ML solutions at Zettheta Algorithms. My research covers grocery demand analytics (IJCRT, IF 9.17) and deep generative systems (currently under review with Springer Nature). I care deeply about model honesty, post-deployment monitoring, and building AI that feels intuitive to humans. The Athlete inside me brings raw endurance to long debug cycles, high-pressure execution, and a daily grind mindset that values incremental gains and continuous performance optimization. Artist side adds visual intuition to EDA and complex data storytelling, creative problem-solving when default models fail, and human-centric empathy for the user experience."
+    }
+]
